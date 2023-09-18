@@ -27,9 +27,9 @@ Before using the Reusable CAPTCHA Security Engine Project, make sure you have th
 - **Java Integrated Development Environment (IDE)**: You can use a Java IDE like Eclipse or IntelliJ IDEA, or a text editor for coding.
 - **Basic Knowledge of Java**: Familiarity with Java programming concepts is recommended.
 
-##Author
+## Author
 -KASHIF ALAM
 -GitHub: https://github.com/Kashifakam786
 
-##Acknowledgements
+## Acknowledgements
 -I would like to offer our special thanks to the CodeClause organizations to giving me this project.
