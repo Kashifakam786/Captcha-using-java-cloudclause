@@ -32,4 +32,4 @@ Before using the Reusable CAPTCHA Security Engine Project, make sure you have th
 - **GitHub: https://github.com/Kashifakam786**
 
 ## Acknowledgements
-- **I would like to offer our special thanks to the CodeClause organizations to giving me this project.**
+- **I would like to offer our special thanks to the CodeClause organizations for giving me this project.**
