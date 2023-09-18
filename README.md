@@ -28,8 +28,8 @@ Before using the Reusable CAPTCHA Security Engine Project, make sure you have th
 - **Basic Knowledge of Java**: Familiarity with Java programming concepts is recommended.
 
 ## Author
--KASHIF ALAM
--GitHub: https://github.com/Kashifakam786
+- **Kashif Alam**
+- **GitHub: https://github.com/Kashifakam786**
 
 ## Acknowledgements
 -I would like to offer our special thanks to the CodeClause organizations to giving me this project.
