@@ -29,7 +29,7 @@ Before using the Reusable CAPTCHA Security Engine Project, make sure you have th
 
 ## Author
 - **Kashif Alam**
-- **GitHub: https://github.com/Kashifakam786**
+- **GitHub: https://github.com/Kashifalam786**
 
 ## Acknowledgements
 - **I would like to offer our special thanks to the CodeClause organizations for giving me this project.**
